@@ -7,6 +7,7 @@ public class Main {
         for(int i=0; i<5; i++) {
             System.out.println("hello world!");
             System.out.println("Hello world again!");
+            System.out.println("hello all");
         }
     }
 }
